@@ -36,18 +36,40 @@
         </button>
       </span>
     </div>
-    <div class="scrollbar-sidebar">
+      <div class="scrollbar-sidebar">
       <div class="app-sidebar__inner">
         <ul class="vertical-nav-menu">
           <li class="app-sidebar__heading">Dashboards</li>
-          <li>
-            <a href="index.html" class="mm-active">
-              <i class="metismenu-icon pe-7s-rocket"></i>
-              Dashboard Example 1
+          <li class="">
+            <a href="#" aria-expanded="false">
+              <i class="metismenu-icon pe-7s-user"></i>
+              Doctors
+              <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
             </a>
+            <ul class="mm-collapse" style="height: 7.04px;">
+              <li>
+                <a href="elements-buttons-standard.html">
+                  <i class="metismenu-icon"></i>
+                 All
+                </a>
+              </li>
+              <li>
+                <a href="elements-buttons-standard.html">
+                  <i class="metismenu-icon"></i>
+                 Create
+                </a>
+              </li>
+              <li>
+                <a href="elements-buttons-standard.html">
+                  <i class="metismenu-icon"></i>
+                 Delete
+                </a>
+              </li>
+            </ul>
           </li>
-        
         </ul>
       </div>
     </div>
   </div>
+
+ 
